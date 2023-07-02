@@ -14,5 +14,4 @@ Visual Studio 2022 project using C++20 language.
 
 This code accompanies an article on my blog: **["Ways to Print and Capture Text Output of a Process" @ asawicki.info](https://asawicki.info/news_1768_ways_to_print_and_capture_text_output_of_a_process)**
 
-Published in July 2023 
-License: Public Domain
+Published in July 2023. License: Public Domain.
